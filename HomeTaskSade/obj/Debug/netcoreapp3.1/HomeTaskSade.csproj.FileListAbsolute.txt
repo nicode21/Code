@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\HomeTaskSade\HomeTaskSade\bin\Debug\netcoreapp3.1\HomeTaskSade.exe
+C:\Users\User\Desktop\HomeTaskSade\HomeTaskSade\bin\Debug\netcoreapp3.1\HomeTaskSade.deps.json
+C:\Users\User\Desktop\HomeTaskSade\HomeTaskSade\bin\Debug\netcoreapp3.1\HomeTaskSade.runtimeconfig.json
+C:\Users\User\Desktop\HomeTaskSade\HomeTaskSade\bin\Debug\netcoreapp3.1\HomeTaskSade.runtimeconfig.dev.json
+C:\Users\User\Desktop\HomeTaskSade\HomeTaskSade\bin\Debug\netcoreapp3.1\HomeTaskSade.dll
+C:\Users\User\Desktop\HomeTaskSade\HomeTaskSade\bin\Debug\netcoreapp3.1\HomeTaskSade.pdb
+C:\Users\User\Desktop\HomeTaskSade\HomeTaskSade\obj\Debug\netcoreapp3.1\HomeTaskSade.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HomeTaskSade\HomeTaskSade\obj\Debug\netcoreapp3.1\HomeTaskSade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HomeTaskSade\HomeTaskSade\obj\Debug\netcoreapp3.1\HomeTaskSade.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HomeTaskSade\HomeTaskSade\obj\Debug\netcoreapp3.1\HomeTaskSade.AssemblyInfo.cs
+C:\Users\User\Desktop\HomeTaskSade\HomeTaskSade\obj\Debug\netcoreapp3.1\HomeTaskSade.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HomeTaskSade\HomeTaskSade\obj\Debug\netcoreapp3.1\HomeTaskSade.dll
+C:\Users\User\Desktop\HomeTaskSade\HomeTaskSade\obj\Debug\netcoreapp3.1\HomeTaskSade.pdb
+C:\Users\User\Desktop\HomeTaskSade\HomeTaskSade\obj\Debug\netcoreapp3.1\HomeTaskSade.genruntimeconfig.cache
